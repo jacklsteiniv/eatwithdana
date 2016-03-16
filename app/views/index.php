@@ -9,8 +9,8 @@
  </head>
  <body>
  <header>
-  <?php include "partials/header.php"; ?>
-  <?php include "partials/nav.php"; ?>
+  <?php include "layouts/header.php"; ?>
+  <?php include "layouts/nav.php"; ?>
  </header>
 
  <main>
@@ -20,7 +20,7 @@
  </main>
 
  <footer>
-  <?php include "partials/footer.php"; ?>
+  <?php include "layouts/footer.php"; ?>
  </footer>
  </body>
 </html>
